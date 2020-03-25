@@ -143,8 +143,6 @@ fun main() {
         if(result3.getString("MIN(mark)").toInt()>=86 && result3.getString("MIN(mark)").toInt()<=100) println("2700р")
 
     }
-
-
 }
 
 
